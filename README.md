@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on hybrid automation frameworks using selenium,java and testng
+- 🌱 I’m currently learning cypress.io
+- 💬 Ask me about test automation, selenium, java
 
 <!--
 **hari751993/hari751993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
