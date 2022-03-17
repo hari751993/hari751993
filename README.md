@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on hybrid automation frameworks using selenium,java and testng
+- 🔭 I’m currently working on developing a hybrid automation frameworks using selenium, java and testng
 - 🌱 I’m currently learning cypress.io
 - 💬 Ask me about test automation, selenium, java
 
